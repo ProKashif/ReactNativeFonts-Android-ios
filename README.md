@@ -1,5 +1,10 @@
 # ReactNativeFonts-Android-ios-
 
+Installation process:
+
+npm install
+react-native run-android or run-ios
+
 On Android it takes the name of the file and you are done. On iOS however it is a bit more complex.
 
 Add this to your package.json
